@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FlameyFox
-- 👀 I’m interested in UX, Web Design, and aproachable web solutions.
-- 🌱 I’m currently learning React and Python.
-- 💞️ I’m looking to collaborate on 🦊
-- 📫 How to reach me ...
+- 👀 I’m interested in - UX, Web Design, and aproachable web solutions.
+- 🌱 I’m currently learning - React
+- 💞️ I’m looking to collaborate on - 🦊
+- 📫 How to reach me - FlameyFox#8656
 
 <!---
 FlameyFox/FlameyFox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
