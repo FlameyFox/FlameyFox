@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlameyFox
 - 👀 I’m interested in - UX, Web Design, and aproachable web solutions.
-- 🌱 I’m currently learning - React
+- 🌱 I’m currently learning - React and Nuxt.JS
 - 💞️ I’m looking to collaborate on - 🦊
 - 📫 How to reach me - FlameyFox#8656
 
