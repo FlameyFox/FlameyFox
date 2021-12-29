@@ -2,7 +2,7 @@
 - 👀 I’m interested in - UX, Web Design, and aproachable web solutions.
 - 🌱 I’m currently learning - React and Nuxt.JS
 - 💞️ I’m looking to collaborate on - 🦊
-- 📫 How to reach me - FlameyFox#8656
+- 📫 How to reach me - FlameyFox#8656 / contact@flameyfox.com
 
 <!---
 FlameyFox/FlameyFox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
