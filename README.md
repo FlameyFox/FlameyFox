@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FlameyFox
 - 👀 I’m interested in - UX, Web Design, and aproachable web solutions.
-- 🌱 I’m currently learning - Vue and Nuxt.JS
-- 💞️ I’m looking to collaborate on - 🦊
+- 🌱 I’m currently learning - Nuxt.JS and Supabase
+- 💞️ I’m looking to collaborate on - A fuzzy project build with NuxtJS and Supabase! 🦊
 - 📫 How to reach me - FlameyFox#8656 / contact@flameyfox.com
 
 <!---
