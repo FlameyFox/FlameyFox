@@ -1,3 +1,3 @@
-### howdy
+### howdy 👋
 
 [flameyfox.com](flameyfox.com)
