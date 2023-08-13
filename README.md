@@ -1,5 +1,5 @@
 ### howdy 👋
 
-[flameyfox.com](flameyfox.com)
+[flameyfox.com](https://flameyfox.com)
 
-Currently making: [animetools.io](animetools.io) @ Buildspace. Spectreseek.
+Currently making: [animetools.io](https://animetools.io) @ Buildspace. Spectreseek.
