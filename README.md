@@ -2,4 +2,4 @@
 
 [flameyfox.com](flameyfox.com)
 
-Currently making: [animetools.io](animetools.io) for Buildspace. Spectreseek.
+Currently making: [animetools.io](animetools.io) @ Buildspace. Spectreseek.
