@@ -2,4 +2,4 @@
 
 [flameyfox.com](https://flameyfox.com)
 
-Currently making: [animetools.io](https://animetools.io) and other exciting projects
+Currently making: [njord.so](https://njord.so), a platform about finances and helping you understand budgets, investing and more – that's the plan at least..!
